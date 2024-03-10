@@ -26,3 +26,17 @@ vc atualiza pra versao mais atual e entao acrescenta as suas modificacoes com se
 agora va ao codigo e de o ultimo  commit e push de hoje.
 
 JOAO PESSOA, 10 DE MARÇO DE 2024.
+
+ultima alteração de hoje de verdade!!
+passoa a passo da nova branch e suas altertacoes e depois pull e merge:
+
+1. git pull branch principal
+2. gerar nova branch a partir da principal
+3. trabalhar e adicionar/remover funcionalidades na nova branch criada
+4. finalizar trabalho da branch nova
+5. git checkout na branch principal
+6. git pull
+7. git merge staging(com o nome da nova branch) mergiar (unir) o codigo da branch temporaria com o codigo da branch principal (claro que depois de testar s eta ok)
+8. git push da branch principal 
+
+fim por hoje
