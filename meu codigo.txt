@@ -2,3 +2,5 @@ Olá, me chamo Tatiane, estou aprendendo a usar o GitHub com o DEV Aprender no Y
 Irei utilizar esse espaço pra anotações importantes:
 
 o comando (git add .)(espaço ponto), permite add varios arquivos de uma vez, sem precisar dar git add de um por um.
+
+ola sou uma nova linha.
