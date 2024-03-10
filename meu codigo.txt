@@ -1,3 +1,8 @@
+JOAO PESSOA, 10 DE MARÇO DE 2024 
+
+AULA 1 DEV APRENDER - YOU TUBE 
+PROFESSOR:
+
 Olá, me chamo Tatiane, estou aprendendo a usar o GitHub com o DEV Aprender no YT!
 Irei utilizar esse espaço pra anotações importantes:
 
@@ -13,3 +18,11 @@ obs. precisei modificar de main pra master , nao entendi o pq , mas fiz seguindo
 obs verificar configuracao esta automaTICA CRIANDO BRANCH(ACHO QUE É BRANCH) MAIN. VER ESSA QUESTAO DE MAIN E MASTER. 
 
 alteracao nova branch staging
+
+MUITO IMPORTANTE: ANTES DO MERGE , FAZER O PULL
+isso evita de fazer merge de alguma versao antiga , caso outra pessoa ja tenha modificado o arquivo , ao fazer pull
+vc atualiza pra versao mais atual e entao acrescenta as suas modificacoes com seu merge!!!
+
+agora va ao codigo e de o ultimo  commit e push de hoje.
+
+JOAO PESSOA, 10 DE MARÇO DE 2024.
