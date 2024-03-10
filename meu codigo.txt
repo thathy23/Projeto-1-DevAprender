@@ -6,4 +6,8 @@ o comando (git add .)(espaço ponto), permite add varios arquivos de uma vez, se
 ola sou uma nova linha.
 nao consegui atualizar no git essa nova linha acima , tentarei novamente .
 obs. a modificação que fiz direto no github foi add , apenas essa do txt que nao consegui AINDA.
-deu certo ! Arquivo txt foi modificado 
+deu certo ! Arquivo txt foi modificado .
+
+obs. precisei modificar de main pra master , nao entendi o pq , mas fiz seguindo orientacoes do chat gpt. modificou no escopo global. verificar melhor o que houve
+
+obs verificar configuracao esta automaTICA CRIANDO BRANCH(ACHO QUE É BRANCH) MAIN. VER ESSA QUESTAO DE MAIN E MASTER. 
