@@ -5,4 +5,5 @@ o comando (git add .)(espaço ponto), permite add varios arquivos de uma vez, se
 
 ola sou uma nova linha.
 nao consegui atualizar no git essa nova linha acima , tentarei novamente .
-obs. a modificação que fiz direto no github foi add , apenas essa do txt que nao consegui AINDA
+obs. a modificação que fiz direto no github foi add , apenas essa do txt que nao consegui AINDA.
+deu certo ! Arquivo txt foi modificado 
