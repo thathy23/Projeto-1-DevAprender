@@ -2,3 +2,4 @@ Olá, me chamo Tatiane, estou aprendendo a usar o GitHub com o DEV Aprender no Y
 Irei utilizar esse espaço pra anotações importantes:
 
 o comando (git add .)(espaço ponto), permite add varios arquivos de uma vez, sem precisar dar git add de um por um.
+ao dar push, o professor deu o comando git push apenas , porem aqui no meu caso deu problema e consegui apenas com o camando git push original main. ( Ver esse ponto , qual a diferença nesse caso).
